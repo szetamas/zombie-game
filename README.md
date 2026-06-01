@@ -1,13 +1,13 @@
 # zombie-game
-A zombie platformer currently in development.
+The zombie platformer currently in development.
 Source code is private. All rights reserved.
 <br>
 <br>
 ![Screenshot](./zombie_info.png)
 <br>
-GAMEPLAY:
-[!https://www.youtube.com/watch?v=rRIjbpb_Lgw)
-[https://www.youtube.com/watch?v=rRIjbpb_Lgw](https://www.youtube.com/watch?v=rRIjbpb_Lgw)
+<h2>
+  GAMEPLAY: https://www.youtube.com/watch?v=rRIjbpb_Lgw
+</h2>
 <br>
 This game originally started as a mobile game project (implementation target may change).<br>
 The movement system includes wall-jumping and climbing mechanics.<br>
@@ -23,5 +23,4 @@ Environmental hazards such as spike platforms (red tiles) damage both the player
 Additional hazard types will fire, toxic waste, or other environmental dangers.<br>
 Zombies currently spawn randomly, but the long-term goal is to design fully structured, playable levels.<br>
 Additional mechanics include a dynamic health system where low HP reduces movement speed, 
-while overhealed states temporarily increase movement speed before returning to the maximum HP.<br>
-This mechanic could be useful in speedrunning.
+while overhealed states temporarily increase movement speed before returning to the maximum HP (This mechanic could be useful in speedrunning).
